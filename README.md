@@ -1,6 +1,6 @@
 # Coding_Progress
 
-## This repository contains the question solved from different websites such as CodeChef, GeeksForGeeks, LeetCode, Spoj, etc.
+## This repository contains the questions solved from different websites such as CodeChef, GeeksForGeeks, LeetCode, Spoj, etc.
 
 1) [Little Elephant and Candies](lecandy.cpp)
 2) [Chef and Notebooks](cnote.cpp)
