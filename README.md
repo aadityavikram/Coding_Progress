@@ -4,6 +4,7 @@
 
 ### CodeChef: -
 
-1) Little Elephant and Candies (lecandy)
-
+<p>
+1) Little Elephant and Candies (lecandy) <br>
 2) Chef and Notebooks (cnote)
+</p>
