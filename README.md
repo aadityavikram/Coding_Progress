@@ -5,6 +5,6 @@
 ### CodeChef: -
 
 <p>
-1) Little Elephant and Candies (lecandy) <br>
+1) [Little Elephant and Candies (lecandy)](lecandy.cpp) <br>
 2) Chef and Notebooks (cnote)
 </p>
