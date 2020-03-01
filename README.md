@@ -13,3 +13,4 @@
 9) [Lapindromes](https://github.com/aadityavikram/Solved_Questions/blob/master/lapin.cpp)
 10) [JNEXT-Just Next!!!](https://github.com/aadityavikram/Solved_Questions/blob/master/jnext.cpp)
 11) [ONP - Transform the Expression](https://github.com/aadityavikram/Solved_Questions/blob/master/onp.cpp)
+12) [Compilers and parsers](https://github.com/aadityavikram/Solved_Questions/blob/master/compiler.cpp)
