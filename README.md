@@ -16,3 +16,4 @@
 12) [Compilers and parsers](https://github.com/aadityavikram/Solved_Questions/blob/master/compiler.cpp)
 13) [MMASS - Mass of Molecule](https://github.com/aadityavikram/Solved_Questions/blob/master/mmass.cpp)
 14) [Alternating Current](https://github.com/aadityavikram/Solved_Questions/blob/master/ac.cpp)
+15) [Minimal string](https://github.com/aadityavikram/Solved_Questions/blob/master/minstring.cpp)
