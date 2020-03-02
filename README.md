@@ -18,3 +18,4 @@
 14) [Alternating Current](https://github.com/aadityavikram/Solved_Questions/blob/master/ac.cpp)
 15) [Minimal string](https://github.com/aadityavikram/Solved_Questions/blob/master/minstring.cpp)
 16) [ANARC09A - Seinfeld](https://github.com/aadityavikram/Solved_Questions/blob/master/anarc09a.cpp)
+17) [Longest Regular Bracket Sequence](https://github.com/aadityavikram/Solved_Questions/blob/master/lrbs.cpp)
