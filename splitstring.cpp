@@ -26,7 +26,6 @@ int balancedStringSplit(string s) {
     
 // Solution 2: - (Shorter)
 int balancedStringSplit(string s) {
-        stack<char> st;
         int count=0,tempCount=0;
         for(int i=0;i<s.length();i++){
             if(s[i]=='L') tempCount++;
