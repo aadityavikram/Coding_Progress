@@ -28,3 +28,4 @@
 24) [Decompress Run-Length Encoded List](https://github.com/aadityavikram/Solved_Questions/blob/master/decompress.cpp)
 25) [Range Sum of BST](https://github.com/aadityavikram/Solved_Questions/blob/master/rsumbst.cpp)
 26) [Find Numbers with Even Number of Digits](https://github.com/aadityavikram/Solved_Questions/blob/master/evnodig.cpp)
+27) [Hamming Distance](https://github.com/aadityavikram/Solved_Questions/blob/master/hamdist.cpp)
