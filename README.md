@@ -43,3 +43,5 @@
 39) [N-ary Tree Postorder Traversal](https://github.com/aadityavikram/Solved_Questions/blob/master/n_ary_treepost.cpp)
 40) [Remove Outermost Parentheses](https://github.com/aadityavikram/Solved_Questions/blob/master/removepar.cpp)
 41) [Single Number](https://github.com/aadityavikram/Solved_Questions/blob/master/singleno.cpp)
+42) [Convert Binary Number in a Linked List to Integer
+](https://github.com/aadityavikram/Solved_Questions/blob/master/binll2int.cpp)
