@@ -1,4 +1,4 @@
-// 
+// https://leetcode.com/problems/merge-two-binary-trees/
 
 // Solution 1: -
 TreeNode* mergeTrees(TreeNode* t1, TreeNode* t2) {
