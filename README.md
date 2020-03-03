@@ -40,3 +40,4 @@
 36) [Self Dividing Numbers](https://github.com/aadityavikram/Solved_Questions/blob/master/selfdivno.cpp)
 37) [N-ary Tree Preorder Traversal](https://github.com/aadityavikram/Solved_Questions/blob/master/n_ary_treepre.cpp)
 38) [Move Zeroes](https://github.com/aadityavikram/Solved_Questions/blob/master/move0.cpp)
+39) [N-ary Tree Postorder Traversal](https://github.com/aadityavikram/Solved_Questions/blob/master/n_ary_treepost.cpp)
