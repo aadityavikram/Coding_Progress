@@ -37,3 +37,4 @@
 33) [Array Partition I](https://github.com/aadityavikram/Solved_Questions/blob/master/arrpart.cpp)
 34) [Maximum Depth of Binary Tree](https://github.com/aadityavikram/Solved_Questions/blob/master/maxdepth.cpp)
 35) [Flipping an Image](https://github.com/aadityavikram/Solved_Questions/blob/master/flipimage.cpp)
+36) [Self Dividing Numbers](https://github.com/aadityavikram/Solved_Questions/blob/master/selfdivno.cpp)
