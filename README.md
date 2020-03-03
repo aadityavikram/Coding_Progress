@@ -26,3 +26,4 @@
 22) [Number of Steps to Reduce a Number to Zero](https://github.com/aadityavikram/Solved_Questions/blob/master/stepsto0.cpp)
 23) [Subtract the Product and Sum of Digits of an Integer](https://github.com/aadityavikram/Solved_Questions/blob/master/psdiff.cpp)
 24) [Decompress Run-Length Encoded List](https://github.com/aadityavikram/Solved_Questions/blob/master/decompress.cpp)
+25) [Range Sum of BST](https://github.com/aadityavikram/Solved_Questions/blob/master/rsumbst.cpp)
