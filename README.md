@@ -33,3 +33,4 @@
 29) [Swap Salary](https://github.com/aadityavikram/Solved_Questions/blob/master/swapsalary.cpp)
 30) [Merge Two Binary Trees](https://github.com/aadityavikram/Solved_Questions/blob/master/mergebt.cpp)
 31) [Split a String in Balanced Strings](https://github.com/aadityavikram/Solved_Questions/blob/master/splitstring.cpp)
+32) [Robot Return to Origin](https://github.com/aadityavikram/Solved_Questions/blob/master/robotreturn.cpp)
