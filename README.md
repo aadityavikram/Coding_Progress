@@ -20,3 +20,4 @@
 16) [ANARC09A - Seinfeld](https://github.com/aadityavikram/Solved_Questions/blob/master/anarc09a.cpp)
 17) [Longest Regular Bracket Sequence](https://github.com/aadityavikram/Solved_Questions/blob/master/lrbs.cpp)
 18) [Jewels and Stones](https://github.com/aadityavikram/Solved_Questions/blob/master/jstone.cpp)
+19) [Defanging an IP Address](https://github.com/aadityavikram/Solved_Questions/blob/master/defangip.cpp)
