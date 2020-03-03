@@ -31,3 +31,4 @@
 27) [Hamming Distance](https://github.com/aadityavikram/Solved_Questions/blob/master/hamdist.cpp)
 28) [Unique Morse Code Words](https://github.com/aadityavikram/Solved_Questions/blob/master/uniquemorse.cpp)
 29) [Swap Salary](https://github.com/aadityavikram/Solved_Questions/blob/master/swapsalary.cpp)
+30) [Merge Two Binary Trees](https://github.com/aadityavikram/Solved_Questions/blob/master/mergebt.cpp)
