@@ -50,3 +50,4 @@
 45) [Count Negative Numbers in a Sorted Matrix](https://github.com/aadityavikram/Solved_Questions/blob/master/countnegmat.cpp)
 46) [Sort Array By Parity](https://github.com/aadityavikram/Solved_Questions/blob/master/sortarrparity.cpp)
 47) [Search in a Binary Search Tree](https://github.com/aadityavikram/Solved_Questions/blob/master/searchinbst.cpp)
+48) [Maximum 69 Number](https://github.com/aadityavikram/Solved_Questions/blob/master/max69no.cpp)
