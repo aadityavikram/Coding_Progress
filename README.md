@@ -46,3 +46,4 @@
 42) [Convert Binary Number in a Linked List to Integer
 ](https://github.com/aadityavikram/Solved_Questions/blob/master/binll2int.cpp)
 43) [Minimum Time Visiting All Points](https://github.com/aadityavikram/Solved_Questions/blob/master/mintime.cpp)
+44) [Reverse String](https://github.com/aadityavikram/Solved_Questions/blob/master/revstring.cpp)
