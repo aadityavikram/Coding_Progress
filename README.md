@@ -53,3 +53,4 @@
 48) [Maximum 69 Number](https://github.com/aadityavikram/Solved_Questions/blob/master/max69no.cpp)
 49) [Reverse Words in a String III](https://github.com/aadityavikram/Solved_Questions/blob/master/revwordsinstr.cpp)
 50) [Fibonacci Number](https://github.com/aadityavikram/Solved_Questions/blob/master/fibno.cpp)
+51) [Maximum Depth of N-ary Tree](https://github.com/aadityavikram/Solved_Questions/blob/master/maxdepth_n_ary.cpp)
