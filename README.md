@@ -45,3 +45,4 @@
 41) [Single Number](https://github.com/aadityavikram/Solved_Questions/blob/master/singleno.cpp)
 42) [Convert Binary Number in a Linked List to Integer
 ](https://github.com/aadityavikram/Solved_Questions/blob/master/binll2int.cpp)
+43) [Minimum Time Visiting All Points](https://github.com/aadityavikram/Solved_Questions/blob/master/mintime.cpp)
