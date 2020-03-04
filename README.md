@@ -56,3 +56,4 @@
 51) [Maximum Depth of N-ary Tree](https://github.com/aadityavikram/Solved_Questions/blob/master/maxdepth_n_ary.cpp)
 52) [N-Repeated Element in Size 2N Array](https://github.com/aadityavikram/Solved_Questions/blob/master/nrepeat.cpp)
 53) [Peak Index in a Mountain Array](https://github.com/aadityavikram/Solved_Questions/blob/master/peakindex.cpp)
+54) [Invert Binary Tree](https://github.com/aadityavikram/Solved_Questions/blob/master/invertbt.cpp)
