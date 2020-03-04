@@ -59,3 +59,4 @@
 54) [Invert Binary Tree](https://github.com/aadityavikram/Solved_Questions/blob/master/invertbt.cpp)
 55) [Replace Elements with Greatest Element on Right Side](https://github.com/aadityavikram/Solved_Questions/blob/master/repelewithgreat.cpp)
 56) [Squares of a Sorted Array](https://github.com/aadityavikram/Solved_Questions/blob/master/sqsortedarr.cpp)
+57) [Find N Unique Integers Sum up to Zero](https://github.com/aadityavikram/Solved_Questions/blob/master/nintsum0.cpp)
