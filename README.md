@@ -52,3 +52,4 @@
 47) [Search in a Binary Search Tree](https://github.com/aadityavikram/Solved_Questions/blob/master/searchinbst.cpp)
 48) [Maximum 69 Number](https://github.com/aadityavikram/Solved_Questions/blob/master/max69no.cpp)
 49) [Reverse Words in a String III](https://github.com/aadityavikram/Solved_Questions/blob/master/revwordsinstr.cpp)
+50) [Fibonacci Number](https://github.com/aadityavikram/Solved_Questions/blob/master/fibno.cpp)
