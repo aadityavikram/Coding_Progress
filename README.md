@@ -49,3 +49,4 @@
 44) [Reverse String](https://github.com/aadityavikram/Solved_Questions/blob/master/revstring.cpp)
 45) [Count Negative Numbers in a Sorted Matrix](https://github.com/aadityavikram/Solved_Questions/blob/master/countnegmat.cpp)
 46) [Sort Array By Parity](https://github.com/aadityavikram/Solved_Questions/blob/master/sortarrparity.cpp)
+47) [Search in a Binary Search Tree](https://github.com/aadityavikram/Solved_Questions/blob/master/searchinbst.cpp)
