@@ -48,3 +48,4 @@
 43) [Minimum Time Visiting All Points](https://github.com/aadityavikram/Solved_Questions/blob/master/mintime.cpp)
 44) [Reverse String](https://github.com/aadityavikram/Solved_Questions/blob/master/revstring.cpp)
 45) [Count Negative Numbers in a Sorted Matrix](https://github.com/aadityavikram/Solved_Questions/blob/master/countnegmat.cpp)
+46) [Sort Array By Parity](https://github.com/aadityavikram/Solved_Questions/blob/master/sortarrparity.cpp)
