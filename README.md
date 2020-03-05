@@ -60,3 +60,4 @@
 55) [Replace Elements with Greatest Element on Right Side](https://github.com/aadityavikram/Solved_Questions/blob/master/repelewithgreat.cpp)
 56) [Squares of a Sorted Array](https://github.com/aadityavikram/Solved_Questions/blob/master/sqsortedarr.cpp)
 57) [Find N Unique Integers Sum up to Zero](https://github.com/aadityavikram/Solved_Questions/blob/master/nintsum0.cpp)
+58) [Decrypt String from Alphabet to Integer Mapping](https://github.com/aadityavikram/Solved_Questions/blob/master/decryptstring.cpp)
