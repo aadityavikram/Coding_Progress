@@ -69,3 +69,4 @@
 64) [Richest Customer Wealth](https://github.com/aadityavikram/Solved_Questions/blob/master/richest-customer-wealth.java)
 65) [Design Parking System](https://github.com/aadityavikram/Solved_Questions/blob/master/design-parking-system.java)
 66) [Goal Parser Interpretation](https://github.com/aadityavikram/Solved_Questions/blob/master/goal-parser-interpretation.java)
+67) [Decode XORed Array](https://github.com/aadityavikram/Solved_Questions/blob/master/decode-xored-array.java)
